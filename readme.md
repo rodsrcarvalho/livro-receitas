@@ -4,4 +4,5 @@ markdown
 
 ## Nossas receitas
 
- - Strogonoff de Frango 01
+ - Strogonoff de Frango
+ - Strogonoff de Carne
